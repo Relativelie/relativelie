@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! 👋 I am Gulshat.
 
 I am a React developer with a day job as a software engineer. My journey started as a QA engineer, but I found my true passion in programming languages. 
 
