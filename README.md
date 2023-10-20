@@ -3,8 +3,8 @@
 I am a React developer with a day job as a software engineer. My journey started as a QA engineer, but I found my true passion in programming languages. 
 
 
+- 🌱 Currently continuing to learn JavaScript, React, as well as mastering dart and flutter from scratch
 - 👩‍💻 I'm currently working on a Flutter project at my job
-- 🌱 I’m currently learning dart and flutter
 - ⚡ Facts: I have a background in testing and analytics, also I am a Cat person 
 
 
