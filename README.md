@@ -18,3 +18,8 @@ I am a React developer with a day job as a software engineer. My journey started
 
 ## Github stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=relativelie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## Check out a demo of my frontend projects:
+* [React Recipes](https://javascript-universe.netlify.app/) 
+* [React Trello](https://html-css-land.netlify.app/) 
