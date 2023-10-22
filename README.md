@@ -21,6 +21,6 @@ I am a React developer with a day job as a software engineer. My journey started
 
 
 ## Check out a demo of my frontend projects:
-* [React Recipes](https://relativelie.github.io) 
+* [React Recipes](https://relativelie.github.io/cafe/) 
 * [React Trello](https://relativelie.github.io/my_trello/)
 * 
