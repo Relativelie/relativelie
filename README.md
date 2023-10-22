@@ -21,5 +21,5 @@ I am a React developer with a day job as a software engineer. My journey started
 
 
 ## Check out a demo of my frontend projects:
-* [React Recipes](https://javascript-universe.netlify.app/) 
-* [React Trello](https://html-css-land.netlify.app/) 
+* [React Recipes](relativelie.github.io/cafe/) 
+* [React Trello](relativelie.github.io/my_trello/) 
