@@ -6,7 +6,7 @@ I am a React developer with a day job as a software engineer. My journey started
 - 💬 Ask me anything about Front-end web development
 - ⚡ Facts: I have a background in testing and analytics
 
-My projects 2023:
+## My projects 2023:
 - pure js: https://github.com/Relativelie/restaurant
 - react: https://github.com/Relativelie/cafe
 
@@ -17,7 +17,7 @@ Links to the demo are attached to the repository.
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <!-- https://github.com/tandpfun/skill-icons/tree/mainhttps://github.com/tandpfun/skill-icons/tree/main-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,dart,flutter,redux,bootstrap,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,redux,bootstrap,jest)](https://skillicons.dev)
 
 
 ## Github stats
