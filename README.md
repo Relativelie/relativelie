@@ -7,6 +7,11 @@ I am a React developer with a day job as a software engineer. My journey started
 - 👩‍💻 I'm currently working on a Flutter project at my job.
 - ⚡ Facts: I have a background in testing and analytics.
 
+My projects 2023:
+- pure js: https://github.com/Relativelie/restaurant
+- react: https://github.com/Relativelie/cafe
+
+Links to the demo are attached to the repository.
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://simpleicons.org -->
@@ -19,8 +24,3 @@ I am a React developer with a day job as a software engineer. My journey started
 ## Github stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=relativelie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## Check out a demo of my frontend projects:
-* [React Recipes](https://relativelie.github.io/cafe/) 
-* [React Trello](https://relativelie.github.io/my_trello/)
-* 
