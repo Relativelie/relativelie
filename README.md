@@ -7,7 +7,7 @@ I am a React developer with a day job as a software engineer. My journey started
 - ⚡ Facts: I have a background in testing and analytics
 
 ## My projects 2023:
-- pure js: https://github.com/Relativelie/restaurant
+- **pure** js: https://github.com/Relativelie/restaurant
 - react: https://github.com/Relativelie/cafe
 
 Links to the demo are attached to the repository.
