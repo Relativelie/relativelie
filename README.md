@@ -2,10 +2,9 @@
 
 I am a React developer with a day job as a software engineer. My journey started as a QA engineer, but I found my true passion in programming languages. 
 
-
-- 🌱 I am currently continuing to learn JavaScript, React, as well as mastering Dart and Flutter from scratch.
-- 👩‍💻 I'm currently working on a Flutter project at my job.
-- ⚡ Facts: I have a background in testing and analytics.
+- 🌱 I am currently continuing to learn JavaScript, React
+- 💬 Ask me anything about Front-end web development
+- ⚡ Facts: I have a background in testing and analytics
 
 My projects 2023:
 - pure js: https://github.com/Relativelie/restaurant
