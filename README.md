@@ -8,7 +8,7 @@ I am a React developer with a day job as a software engineer. My journey started
 
 ## My projects 2023:
 - **pure** js: https://github.com/Relativelie/restaurant
-- react: https://github.com/Relativelie/cafe
+- react, redux: https://github.com/Relativelie/cafe
 
 Links to the demo are attached to the repository.
 
