@@ -9,6 +9,7 @@ I am a React developer with a day job as a software engineer. My journey started
 ## My projects 2024:
 - **pure** js: https://github.com/Relativelie/restaurant
 - react, redux: https://github.com/Relativelie/cafe
+- next.js 14: https://github.com/Relativelie/next-js-charity
 - authentication example: https://github.com/Relativelie/auth
 
 Links to the demo are attached to the repository.
